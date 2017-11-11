@@ -1,4 +1,4 @@
-#' Fill raster gaps
+#' Fill raster gaps 
 #'
 #' Function that fills gaps in a raster.
 #' @param in.ras Input raster
